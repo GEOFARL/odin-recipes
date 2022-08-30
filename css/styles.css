@@ -9,13 +9,13 @@ body {
 
 h1,
 h2 {
-    color: #e8a87c;
+    color: #ed7626;
     -webkit-text-stroke: 0.3px black;
 }
 
 h1 {
     font-size: 2.5rem;
-    margin: 50px 0;
+    margin: 0 0 50px 0;
 }
 
 h2 {
@@ -23,9 +23,12 @@ h2 {
 }
 
 .container {
-    margin: 0 auto;
+    margin: 30px auto;
     width: 90%;
     max-width: 700px;
+    background-color: #fbeec169;
+    padding: 40px;
+    border-radius: 10px;
 }
 
 img {
